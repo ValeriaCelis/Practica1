@@ -28,9 +28,9 @@
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="#">acción</a></li>
-            <li><a class="dropdown-item" href="#">otra acción</a></li>
+            <li><a class="dropdown-item" href="formulario.php">Formulario</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">ALgo mas aquí</a></li>
+            <li><a class="dropdown-item" href="#">Algo mas aquí</a></li>
           </ul>
         </li>
         <li class="nav-item">
